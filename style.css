@@ -1,0 +1,30 @@
+#abc{
+    color: green;
+}
+.xyz{
+    color: blue;
+}
+
+.def{
+    color: yellow;
+}
+
+.ghi{
+    color: blue;
+}
+
+.mno{
+    color: aqua;
+}
+
+table{
+    background-color: orange;
+}
+* {
+    background-color: black;
+}
+
+#abc, .xyz, .def, .ghi, .mno {
+    background-color: white;
+    text-align: center;
+}
